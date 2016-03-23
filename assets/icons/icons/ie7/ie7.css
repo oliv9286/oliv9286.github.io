@@ -1,0 +1,480 @@
+.ico-record {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x71;');
+}
+.ico-location {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x77;');
+}
+.ico-video {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x65;');
+}
+.ico-photo {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x72;');
+}
+.ico-users {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x74;');
+}
+.ico-profile {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x79;');
+}
+.ico-user {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x75;');
+}
+.ico-email {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x69;');
+}
+.ico-mail {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x6f;');
+}
+.ico-star {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x70;');
+}
+.ico-heart {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x5b;');
+}
+.ico-plus {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x5d;');
+}
+.ico-repost {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x61;');
+}
+.ico-share {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x73;');
+}
+.ico-link {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x64;');
+}
+.ico-like {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x66;');
+}
+.ico-wii {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x67;');
+}
+.ico-playstation {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x68;');
+}
+.ico-xbox {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x78;');
+}
+.ico-steam {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x6a;');
+}
+.ico-gamecenter {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x6b;');
+}
+.ico-googleplay {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x6c;');
+}
+.ico-appstore {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x27;');
+}
+.ico-ubuntu {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x3b;');
+}
+.ico-linux {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x7a;');
+}
+.ico-blackberry {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x62;');
+}
+.ico-windows2 {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x63;');
+}
+.ico-windows {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x6d;');
+}
+.ico-android {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x6e;');
+}
+.ico-apple {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x2c;');
+}
+.ico-cloudapp {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x2e;');
+}
+.ico-skydrive {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x2f;');
+}
+.ico-google-drive {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x60;');
+}
+.ico-dropbox {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x2d;');
+}
+.ico-opera {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x3d;');
+}
+.ico-ie {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x7e;');
+}
+.ico-firefox {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x21;');
+}
+.ico-safari {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x24;');
+}
+.ico-chrome {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x40;');
+}
+.ico-baidu {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x25;');
+}
+.ico-bing {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x5e;');
+}
+.ico-yahoo {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x26;');
+}
+.ico-google {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x2a;');
+}
+.ico-ruby {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x28;');
+}
+.ico-python {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x29;');
+}
+.ico-css3 {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x5f;');
+}
+.ico-html5 {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x2b;');
+}
+.ico-codeschool {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x7c;');
+}
+.ico-treehouse {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x51;');
+}
+.ico-codecademy {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x57;');
+}
+.ico-chat {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x45;');
+}
+.ico-qik {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x52;');
+}
+.ico-whatsapp {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x54;');
+}
+.ico-viber {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x59;');
+}
+.ico-icq {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x49;');
+}
+.ico-aim {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x55;');
+}
+.ico-hangout {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x4f;');
+}
+.ico-skype {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x41;');
+}
+.ico-podcasts {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x53;');
+}
+.ico-itunes {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x44;');
+}
+.ico-soundhound {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x46;');
+}
+.ico-soundcloud {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x47;');
+}
+.ico-grooveshark {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x48;');
+}
+.ico-songza {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x4a;');
+}
+.ico-lastfm {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x4b;');
+}
+.ico-pandora {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x4c;');
+}
+.ico-rdio {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x3a;');
+}
+.ico-spotify {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x22;');
+}
+.ico-wikipedia {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x5a;');
+}
+.ico-quora {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x58;');
+}
+.ico-gag {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x43;');
+}
+.ico-technorati {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x56;');
+}
+.ico-picasa {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x42;');
+}
+.ico-hipstamatic {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x4e;');
+}
+.ico-foursquare {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x4d;');
+}
+.ico-path {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x3f;');
+}
+.ico-yelp {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x3e;');
+}
+.ico-blogger {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x3c;');
+}
+.ico-tumblr {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x30;');
+}
+.ico-livejournal {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x5c;');
+}
+.ico-medium {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x76;');
+}
+.ico-storify {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x153;');
+}
+.ico-wordpress {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x2211;');
+}
+.ico-drupal {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xb4;');
+}
+.ico-gittip {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xa1;');
+}
+.ico-github {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x2122;');
+}
+.ico-github2 {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xa3;');
+}
+.ico-github3 {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xa2;');
+}
+.ico-bitbucket {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x221e;');
+}
+.ico-stackoverflow {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xa7;');
+}
+.ico-forrst {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xb6;');
+}
+.ico-zerply {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x2022;');
+}
+.ico-angellist {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xaa;');
+}
+.ico-slideshare {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x2013;');
+}
+.ico-behance {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x2260;');
+}
+.ico-dribble {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe5;');
+}
+.ico-cargo {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xdf;');
+}
+.ico-deviantart {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x192;');
+}
+.ico-adobecreativecloud {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xa9;');
+}
+.ico-adobe {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x2d9;');
+}
+.ico-basecamp {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x2206;');
+}
+.ico-trello {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x2da;');
+}
+.ico-mailchimp {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xac;');
+}
+.ico-evernote {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x2026;');
+}
+.ico-etsy {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe6;');
+}
+.ico-creativemarket {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x3a9;');
+}
+.ico-envato {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x2248;');
+}
+.ico-paypal {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe7;');
+}
+.ico-googlewallet {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x221a;');
+}
+.ico-amazon {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x2dc;');
+}
+.ico-amazonwishlist {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x2264;');
+}
+.ico-shoppingcart {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x2265;');
+}
+.ico-kickstarter {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf7;');
+}
+.ico-kiva {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xab;');
+}
+.ico-rss {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x2018;');
+}
+.ico-buffer {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x201c;');
+}
+.ico-feedly {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x3c0;');
+}
+.ico-pocket {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf8;');
+}
+.ico-instapaper {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x2020;');
+}
+.ico-flipboard {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xae;');
+}
+.ico-bookmark {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x39;');
+}
+.ico-delicious {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe679;');
+}
+.ico-mrwong {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe67a;');
+}
+.ico-stumbleupon {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe67b;');
+}
+.ico-pinterest {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x38;');
+}
+.ico-fancy {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe67d;');
+}
+.ico-svpply {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe67e;');
+}
+.ico-netflix {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe67f;');
+}
+.ico-reddit {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe680;');
+}
+.ico-newswine {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe681;');
+}
+.ico-digg {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe682;');
+}
+.ico-slashdot {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe683;');
+}
+.ico-px {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe684;');
+}
+.ico-flickr {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x37;');
+}
+.ico-vine {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe686;');
+}
+.ico-instagram {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x34;');
+}
+.ico-viddler {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe688;');
+}
+.ico-vimeo {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x36;');
+}
+.ico-youtube2 {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe68a;');
+}
+.ico-youtube {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x35;');
+}
+.ico-douban {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe68c;');
+}
+.ico-renren {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe68d;');
+}
+.ico-kaixin {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe68e;');
+}
+.ico-weibo {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe68f;');
+}
+.ico-odnoklassniki {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe690;');
+}
+.ico-vk {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe691;');
+}
+.ico-orkut {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe692;');
+}
+.ico-netlog {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe693;');
+}
+.ico-openid {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe694;');
+}
+.ico-appnet {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe695;');
+}
+.ico-badoo {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe696;');
+}
+.ico-bebo {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe697;');
+}
+.ico-friendster {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe698;');
+}
+.ico-myspace {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe699;');
+}
+.ico-meetup {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe69a;');
+}
+.ico-xing {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe69b;');
+}
+.ico-facebook {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x32;');
+}
+.ico-twitter {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x31;');
+}
+.ico-gplus {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x33;');
+}
+.ico-linkedin {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe69f;');
+}

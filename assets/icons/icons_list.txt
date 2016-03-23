@@ -1,0 +1,56 @@
+------------------
+Friendly Icons: 160 Hand-Drawn Social Media and Apps Icons 
+Created by Olly Holovchenko, 2013
+Web: http://handdrawngoods.com
+E-mail: handdrawngoods@gmail.com
+------------------
+
+LIST OF ICONS
+
+Row 1
+Facebook, Twitter, G+, Linkedin, Xing, Meetup, Myspace, Frendster, Bebo, Badoo 
+
+Row 2
+App.net, Open Id, Netlog, Orkut, Vkontakte, Odnoklasniki, Weibo, Kaixin, Renren, Douban
+
+Row 3
+Youtube 1, Youtube 2, Vimeo, Viddler, Instagram, Vine, Flikr, 500px, Picasa, Hipstamatic 
+
+Row 4
+Foursquare, Path, Yelp, Blogger, Tumblr, Livejournal, Medium, Storify, Wordpress, Drupal 
+
+Row 5
+Gittip, Github1, Github2, Github3, Bitbucket, StackOverflow, Forrst, Zerply, Angellist, Slideshare
+
+Row 6
+Behance, Dribbble, Cargo, Deviantart, Adobe Creative Cloud, Adobe, Basecamp, Trello, Mailchimp, Evernote
+
+Row 7
+Etsy, Creative Market, Envato, Paypal, Google Wallet, Amazon, Amazon Wishlist, Shopping Cart, Kickstarter, Kiva
+
+Row 8
+Rss, Buffer, Feedly, Pocket, Instapaper, Flipboard, Bookmark, Delicious, Mr Wong, Stumbleupon
+
+Row 9
+Pinterest, Fancy, Svpply, Netflix, Reddit, Newsvine, Digg, Slashdot, Technorati, 9gag
+
+Row 10
+Quora, Wikipedia, Spotify, Rdio, Pandora, Lastfm, Songza, Grooveshark, Soundcloud, Soundhound
+
+Row 11
+Itunes, Podcast, Skype, Hangout, Aim, Icq, Viber, Whatsapp, Qik, Chat
+
+Row 12
+Codecademy, Tree House, Codeschool, Html5, Css3, Python, Ruby, Google, Yahoo, Bing
+
+Row 13
+Baidu, Chrome, Safari, Firefox, Ie, Opera, Dropbox, Google Drive, Skydrive, Cloud App
+
+Row 14
+Apple, Android, Windows 1, Windows 2, Blackberry, Linux, Ubuntu, Appstore, Google Play, GameCenter
+
+Row 15
+Steam, Xbox, Playstation, Wii, Like, Link, Share, Retweet, Plus, Heart
+
+Row 16
+Star, Email 1, Email 2, User, Profile, Users, Photo, Video, Location, Mic

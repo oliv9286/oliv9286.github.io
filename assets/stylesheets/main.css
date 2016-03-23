@@ -1,0 +1,345 @@
+html {
+  box-sizing: border-box;
+  height: 100%;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+// HTML5 display-role reset for older browsers
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+a, a:hover, a:visited {
+  text-decoration: none;
+  -moz-transition: all .1s ease-in;
+  -o-transition: all .1s ease-in;
+  -webkit-transition: all .1s ease-in;
+  transition: all .1s ease-in;
+}
+
+body {
+  padding-top: 50px;
+  font-size: 18px;
+  line-height: 1;
+  height: 100%;
+  background-image: url('../images/stardust/stardust.png');
+  background-repeat: repeat;
+}
+p {
+  margin: 10px 0;
+}
+ol, ul {
+  list-style: none;
+}
+blockquote, q {
+  quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: '';
+  content: none;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+img{
+  max-width: 100%;
+  margin: 10px 0;
+}
+
+pre{
+  white-space: initial;
+}
+code{
+  white-space: pre;
+}
+
+body {
+  font-family: 'Open Sans', 'Helvetica Neue', 'Helvetica', sans-serif;
+  font-weight: 300;
+  font-size: 18px;
+  margin: 0 auto;
+  width: 100%;
+  color: #eeeeee;
+  line-height: 1.5;
+}
+
+h1, h2, h3, h4 {
+  font-weight: 600;
+  margin-bottom: 20px;
+  font-family: 'Raleway', sans-serif;
+}
+h1 {
+  font-size: 36px;
+}
+h2 {
+  font-size: 28px;
+}
+h3 {
+  font-size: 24px;
+}
+
+section {
+  min-height: 300px;
+}
+
+section .content {
+  padding: 5% 10%;
+}
+
+nav {
+  position: fixed;
+  top: 0;
+  height: 50px;
+  background-color: white;
+  width: 100%;
+  z-index: 1000;
+  padding: 10px 10%;
+  font-weight: 600;
+  font-family: 'Raleway', sans-serif;
+  color: #777777;
+  border-bottom: 1px solid #d0d0d0;
+}
+
+nav div {
+  display: inline-block;
+}
+
+nav .nav-menu {
+  float: right;
+}
+
+nav .nav-menu a {
+  margin-right: 20px;
+  cursor: pointer;
+}
+
+nav .nav-menu a:hover {
+  color: #555555;
+}
+
+.row {
+  margin-bottom: 30px;
+}
+
+.title {
+  color: #555555;
+  border-bottom: 3px solid #897f7f;
+  padding-bottom: 5px;
+}
+
+.jolly {
+  font-size: 32px;
+  vertical-align: middle;
+}
+
+.profile {
+  text-align: center;
+}
+
+.profile img {
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+}
+
+.contact {
+  text-align: left;
+}
+
+.about {
+  background-color: #a7d2cb;
+  background-image: url('../images/notebook.png');
+  background-repeat: repeat;
+  color: #555555;
+  font-size: 14px;
+}
+
+.about a,
+.about a:visited {
+  color: #555555;
+  vertical-align: bottom;
+  margin: 0 10px;
+  display: block;
+}
+
+.about a:hover,
+.about p:hover {
+  color: #333333;
+}
+
+.skills {
+  background-color: #f2d388;
+}
+
+.experience {
+  background-color: #f4f4f4;
+  color: #555555;
+/*  background-image: url('../images/notebook.png');*/
+}
+
+.job {
+  width: 100%;
+  margin: 15px 0;
+  border-left: 10px solid #a7d2cb;
+  padding-left: 20px;
+}
+
+.logo {
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 20px;
+  text-align: center;
+  width: 10%;
+}
+
+.logo img {
+  height: 50px;
+}
+
+.company {
+  width: 80%;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.company h4 {
+  margin-bottom: 0;
+}
+
+.company .date {
+  font-size: 12px;
+  margin: 0;
+}
+
+.company p,
+.company ul {
+  font-size: 14px;
+}
+
+.company ul {
+  list-style-type: circle;
+  margin-left: 20px;
+}
+
+.skill-circle {
+  border: 3px solid #c98575;
+
+  position:relative;
+  border-radius:50%;
+  overflow:hidden;
+  line-height:150px;
+  width:150px;
+  height: 150px;
+  text-align:center;
+  background:rgba(155, 135, 143, 1);;
+  color:#fff;
+  z-index:1;
+  margin: 0 auto;
+}
+
+.skill-circle p {
+  font-weight: 600;
+  margin-top: 0;
+  color: #e4e4e4;
+}
+
+.skill-circle .skill-fill {
+  position:absolute;
+  top:0; 
+  left:0;
+  width:100%; 
+  height:100%;
+  z-index:-1;
+  transition:transform 0.8s;
+  transform-origin:50% 100%;
+  background-color: rgba(135, 77, 99, 0.8);
+}
+
+.skill-circle:hover #javascript{
+    transform:scaleY(0.9);
+}
+
+.skill-circle:hover #java{
+    transform:scaleY(0.8);
+}
+
+.skill-circle:hover #python{
+    transform:scaleY(0.5);
+}
+
+.skill-circle:hover #html{
+    transform:scaleY(0.7);
+}
+
+.skill-circle:hover #angular {
+    transform:scaleY(0.6);
+}
+
+.skill-circle:hover #jquery {
+    transform:scaleY(0.9);
+}
+
+.skill-circle:hover #react {
+    transform:scaleY(0.4);
+}
+
+.skill-circle:hover #asp {
+    transform:scaleY(0.5);
+}
+
+#javascript {
+  transform:scaleY(0.8);
+}
+
+#java {
+  transform:scaleY(0.7);
+}
+
+#python {
+  transform:scaleY(0.4);
+}
+
+#html {
+  transform:scaleY(0.6);
+}
+
+#angular {
+  transform:scaleY(0.5);
+}
+
+#jquery {
+  transform:scaleY(0.8);
+}
+
+#react {
+  transform:scaleY(0.3);
+}
+
+#asp {
+  transform:scaleY(0.4);
+}
