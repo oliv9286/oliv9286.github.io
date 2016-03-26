@@ -15,44 +15,90 @@
   <nav>
     <div class="nav-logo">Olivia Zhang</div>
     <div class="nav-menu">
-      <a>About</a>
-      <a>Resume</a>
-      <a>Proects</a>
+      <a href="#about">About</a>
+      <a href="#contact">Contact</a>
+      <a href="#projects">Projects</a>
+      <a href="#resume">Resume</a>
     </div>
   </nav>
 
-  <section class="about">
+  <section class="about" id="about">
     <div class="content grid grid-pad">
       <div class="col-1-1">
         <h2 class="title">About</h2>
       </div>
       <div class="col-1-3 profile">
         <img src="assets/images/profile.jpg">
-        <div class="contact">
-          <a><i class="jolly ico-mail"></i> olivia.ny.zhang@gmail.com</a>
-          <a href="https://ca.linkedin.com/in/olivianyzhang" target="_blank">
-            <i class="jolly ico-linkedin"></i> ca.linkedin.com/in/olivianyzhang
-          </a>
-          <a href="http://github.com/oliv9286" target="_blank"><i class="jolly ico-github"></i> github.com/oliv9286</a>
-          <a href="http://youtube.com/olivievie" target="_blank"><i class="jolly ico-youtube"></i> youtube.com/olivievie</a>
-        </div>
       </div>
-      <div class="col-2-3">
+      <div class="col-2-3 intro">
         <h3>Hey, nice to e-meet you!</h3>
-        <p>My name is Olivia Zhang, a Software Developer in residing in Vancouver, B.C. I see you've just found my little corner on the internet.
+        <p>My name is Olivia Zhang, a Software Developer in residing in Vancouver, B.C. I see you found my little corner on the internet.
         <p>
         After getting my degree from the University of British Columbia in 2015, <br> I have been developing my skills in interested and web technologies. </br> I focus on building maintainable, scalable client-side code that powers clean user interfaces and interactions. I also get my hands dirty on making games as a hobby occasionally.
         </p>
         <p> I am currently helping to create the best set of conversion tools for marketers at Unbounce, and was previously part of the team at Hootsuite that transformed their website to a conversion engine.</p>
         <p>
-        With a curious mind and a drive to produce applications that people love using, I'm always looking to learn about new technologies and grow myself as a better programmer everyday.
+        With a curious mind and a drive to produce applications that people love using, I'm always looking to learn new technologies and grow myself as a better programmer everyday.
         </p>
         <p></p>
       </div>
     </div>
   </section>
 
-  <section class="skills">
+  <section class="get-to-know" id="contact">
+    <div class="content grid grid-pad">
+        <h2 class="title">Getting to Know Me</h2>
+        <div class="col-1-2 contact">
+          <a><i class="jolly ico-mail"></i> olivia.ny.zhang at gmail.com</a>
+          <a href="https://ca.linkedin.com/in/olivianyzhang" target="_blank">
+            <i class="jolly ico-linkedin"></i> olivianyzhang
+          </a>
+          <a href="http://github.com/oliv9286" target="_blank"><i class="jolly ico-github"></i> oliv9286</a>
+          <a href="http://youtube.com/olivievie" target="_blank"><i class="jolly ico-youtube"></i> Olivievie</a>
+        </div>
+        <div class="col-1-2">
+          <p><i class="jolly ico-location"></i> Vancouver, B.C. Canada</p>
+          <p><i class="jolly ico-heart"></i> Piano Improv, Photography, Pottery</p>
+        </div>
+    </div>
+  </section>
+
+
+  <section class="projects" id="projects">
+    <div class="content grid grid-pad">
+      <h2 class="title">Projects</h2>
+      <div class="col-1-4 featured-project">
+        <a href="" target="_blank">
+          <img src="assets/images/designers-wall.png">
+        </a>
+        <p class="title">Designer's Wall</p>
+        <p>ReactJS app that integrates Behance and dribbble, designers can discover new projects to follow in one place. (In progress)</p>
+      </div>
+      <div class="col-1-4 featured-project">
+        <a href="https://github.com/sconealone/ggj14" target="_blank">
+          <img src="assets/images/tables_turned.png">
+        </a>
+        <p class="title">the Tables Have Turned</p>
+        <p>HTML5/Javascript game written for the browser. Fight your opponents by throwing tables at them, race them to be the first that acheives objectives.</p>
+      </div>
+      <div class="col-1-4 featured-project">
+        <a href="https://github.com/oliv9286/PopeBaboon" target="_blank">
+          <img src="assets/images/popebaboon.png">
+        </a>
+        <p class="title">Pope Baboon</p>
+        <p>Online notepad to keep your quick notes, access them from any device connected to the internet. Built with AngularJS.</p>
+      </div>
+      <div class="col-1-4 featured-project">
+        <a href="https://github.com/oliv9286/Clue" target="_blank">
+          <img src="assets/images/clue.jpg">
+        </a>
+        <p class="title">Clue Assistant</p>
+        <p>Prolog program that helps you determine the best next move in a game of Clue.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="skills" id="resume">
     <div class="content grid grid-pad">
       <div class="col-1-1">
         <h2 class="title">Skills</h2>
@@ -140,6 +186,7 @@
         <div class="company">
           <h4>Unbounce &mdash; Software Developer</h4>
           <p class="date">Feb. 2016 - present</p>
+          <p>I am working with the page builder team to create an easy drag-and-drop experience for marketers to build landing pages without having to code. Working with various client-side technologies including: ReactJS, loadash, Virtual DOM, Coffeescript.</p>
         </div>
       </div>
       <div class="col-1-1 job">
@@ -203,5 +250,26 @@
       </div>
     </div>
   </section>
+  <footer>
+    <p>&copy; 2016 &mdash; Olivia Zhang</p>
+  </footer>
 </body>
+
+<script type="text/javascript" src="js/jquery-1.12.2.min.js"></script>
+<script type="text/javascript">
+  $(function() {
+    $('a[href*="#"]:not([href="#"])').click(function() {
+      if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+        var target = $(this.hash);
+        target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+        if (target.length) {
+          $('html, body').animate({
+            scrollTop: target.offset().top
+          }, 1000);
+          return false;
+        }
+      }
+    });
+  });
+</script>
 </html>

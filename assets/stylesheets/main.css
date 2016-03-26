@@ -44,8 +44,6 @@ body {
   font-size: 18px;
   line-height: 1;
   height: 100%;
-  background-image: url('../images/stardust/stardust.png');
-  background-repeat: repeat;
 }
 p {
   margin: 10px 0;
@@ -138,8 +136,23 @@ nav .nav-menu a {
   cursor: pointer;
 }
 
+nav .nav-menu a,
+nav .nav-menu a:visited {
+  color: #777777;
+}
+
 nav .nav-menu a:hover {
   color: #555555;
+}
+
+footer {
+  background-color: white;
+  height: 50px;
+  width: 100%;
+  border-top: 1px solid #d0d0d0;
+  padding: 10px 10%;
+  color: #777777;
+  font-weight: 600;
 }
 
 .row {
@@ -153,22 +166,19 @@ nav .nav-menu a:hover {
 }
 
 .jolly {
-  font-size: 32px;
+  font-size: 40px;
   vertical-align: middle;
 }
 
 .profile {
   text-align: center;
+  margin-top: 40px;
 }
 
 .profile img {
   width: 250px;
   height: 250px;
   border-radius: 50%;
-}
-
-.contact {
-  text-align: left;
 }
 
 .about {
@@ -179,17 +189,26 @@ nav .nav-menu a:hover {
   font-size: 14px;
 }
 
-.about a,
-.about a:visited {
+.get-to-know {
+  background-color: #f2d388;
+  color: #555555;
+}
+
+.contact a,
+.contact a:visited {
   color: #555555;
   vertical-align: bottom;
-  margin: 0 10px;
+  margin: 10px 0;
   display: block;
 }
 
-.about a:hover,
-.about p:hover {
+.contact a:hover,
+.contact p:hover {
   color: #333333;
+}
+
+.about .intro {
+  padding-left: 50px;
 }
 
 .skills {
@@ -199,7 +218,36 @@ nav .nav-menu a:hover {
 .experience {
   background-color: #f4f4f4;
   color: #555555;
-/*  background-image: url('../images/notebook.png');*/
+}
+
+.projects {
+  background-color: #c98575;
+}
+
+.featured-project {
+  text-align: center;
+}
+
+.featured-project img {
+  border-radius: 100%;
+  width: 200px;
+  border: 3px solid rgb(135, 77, 99);
+}
+
+.featured-project .title {
+  border: none;
+  padding: 0;
+  font-weight: 600;
+  color: #333333;
+  text-align: center;
+  white-space: nowrap;
+  font-size: 18px;
+}
+
+.featured-project p {
+  font-weight: 400;
+  font-size: 14px;
+  color: #555555;
 }
 
 .job {
